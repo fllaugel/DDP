@@ -1,0 +1,27 @@
+creditscore
+========================================================
+author: Felipe Llaugel
+date: October 21, 2015
+
+A G E N D A
+========================================================
+
+
+
+- Introduction
+- Model 
+- Applications
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
